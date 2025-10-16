@@ -16,3 +16,4 @@ Tích hợp đèn, quạt, cảm biến nhiệt độ - độ ẩm, PIR, rèm c�
 - `docs/` : Tài liệu, hình minh họa.
 
 ## Tác giả
+Đỗ Đức Duy
